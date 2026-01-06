@@ -16,33 +16,31 @@
 class Solution {
     public int maxLevelSum(TreeNode root) {
         Queue<TreeNode>q = new LinkedList<>();
-        int res = 0;
-        int level = 0;
-        int maxi =Integer.MIN_VALUE;
-
         q.add(root);
-
+        int res = Integer.MIN_VALUE;
+        int c = 0;
+        int val =0;
 
         while(!q.isEmpty()){
             int n = q.size();
             int sum = 0;
-            level++;
+            c++;
 
             for(int i=0;i<n;i++){
                 TreeNode curr = q.remove();
 
                 sum += curr.val;
 
-                if(curr.left != null ) q.add(curr.left);
-                if(curr.right != null) q.add(curr.right); 
+                if(curr.left != null) q.add(curr.left);
+                if(curr.right != null) q.add(curr.right);
             }
 
-            if(sum > maxi){
-                maxi = sum;
-                res = level;
-                
+            if(res < sum){
+                res = sum;
+                val = c;
             }
         }
-        return res;
+
+        return val;
     }
 }
