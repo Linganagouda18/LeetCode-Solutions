@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Linganagouda18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0994-rotting-oranges](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -48,4 +49,9 @@
 | ------- |
 | [0046-permutations](https://github.com/Linganagouda18/LeetCode-Solutions/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/Linganagouda18/LeetCode-Solutions/tree/main/0077-combinations/) | Medium |
+| [0078-subsets](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
