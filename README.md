@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
