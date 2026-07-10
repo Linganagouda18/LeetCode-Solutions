@@ -72,4 +72,8 @@
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
