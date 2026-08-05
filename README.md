@@ -16,6 +16,7 @@
 | [0130-surrounded-regions](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0994-rotting-oranges](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [3731-find-missing-elements](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
