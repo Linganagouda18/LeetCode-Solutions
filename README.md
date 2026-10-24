@@ -16,12 +16,14 @@
 | [0130-surrounded-regions](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0209-minimum-size-subarray-sum](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0994-rotting-oranges](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -84,5 +86,6 @@
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/Linganagouda18/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
